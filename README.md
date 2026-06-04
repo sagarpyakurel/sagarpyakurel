@@ -44,19 +44,19 @@ I'm passionate about **DevOps, Cloud Infrastructure, and Full Stack Development*
 A full-featured weather application with real-time data and beautiful UI.
 - **Technologies**: Python, FastAPI, Database Integration
 - **Highlights**: Real-time weather data, Responsive design
-- 📂 [View Repository & README](https://github.com/sagarpyakurel/weather-app) | 🌐 [Live on Portfolio](https://www.sagarpyakurel.com.np)
+- 📂 [View Repository & README](https://github.com/sagarpyakurel/weatherproject) 
 
 ### 🏗️ Terraform Infrastructure as Code
 Infrastructure automation and cloud resource management using Terraform.
 - **Technologies**: Terraform, AWS, Cloud Architecture
 - **Highlights**: Modular infrastructure, Best practices, IaC documentation
-- 📂 [View Repository & README](https://github.com/sagarpyakurel/terraform) | 📖 [Documentation](https://www.sagarpyakurel.com.np)
+- 📂 [View Repository & README](https://github.com/sagarpyakurel/terraform) 
 
 ### 🛒 Customer Order Management System
 A comprehensive order management platform for handling customer transactions and operations.
 - **Technologies**: Django, Python, PostgreSQL/MySQL, REST APIs
 - **Highlights**: Order tracking, Customer management, Inventory system
-- 📂 [View Repository](https://github.com/sagarpyakurel/customer-order-mgmt)
+- 📂 [View Repository](https://github.com/sagarpyakurel/CustumerOrderMgmtandWeatherApp)
 
 ---
 
@@ -96,7 +96,7 @@ Feel free to reach out for collaborations or just a friendly chat:
 
 - 🌐 **Portfolio**: [sagarpyakurel.com.np](https://www.sagarpyakurel.com.np)
 - 💼 **LinkedIn**: [Connect with me](https://linkedin.com/in/sagarpyakurel)
-- 📧 **Email**: [your.email@example.com](mailto:your.email@example.com)
+- 📧 **Email**: [your.email@example.com](mailto:pyakurelsagarofficial@gmail.com)
 - 🐙 **GitHub**: [@sagarpyakurel](https://github.com/sagarpyakurel)
 
 ---
