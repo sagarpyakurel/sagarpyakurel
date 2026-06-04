@@ -95,7 +95,7 @@ A comprehensive order management platform for handling customer transactions and
 Feel free to reach out for collaborations or just a friendly chat:
 
 - 🌐 **Portfolio**: [sagarpyakurel.com.np](https://www.sagarpyakurel.com.np)
-- 💼 **LinkedIn**: [Connect with me](https://linkedin.com/in/sagarpyakurel)
+- 💼 **LinkedIn**: [https://www.linkedin.com/in/sagarpyakurel](https://linkedin.com/in/sagarpyakurel)
 - 📧 **Email**: [pyakurelsagarofficial@gmail.com](mailto:pyakurelsagarofficial@gmail.com)
 - 🐙 **GitHub**: [@sagarpyakurel](https://github.com/sagarpyakurel)
 
