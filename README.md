@@ -50,7 +50,7 @@ A full-featured weather application with real-time data and beautiful UI.
 Infrastructure automation and cloud resource management using Terraform.
 - **Technologies**: Terraform, AWS, Cloud Architecture
 - **Highlights**: Modular infrastructure, Best practices, IaC documentation
-- 📂 [View Repository & README](https://github.com/sagarpyakurel/terraform) 
+- 📂 [View Repository & README](https://github.com/sagarpyakurel/terraform_AWS_Infrastructure_As_a_Code) 
 
 ### 🛒 Customer Order Management System
 A comprehensive order management platform for handling customer transactions and operations.
