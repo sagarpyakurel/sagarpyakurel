@@ -96,7 +96,7 @@ Feel free to reach out for collaborations or just a friendly chat:
 
 - 🌐 **Portfolio**: [sagarpyakurel.com.np](https://www.sagarpyakurel.com.np)
 - 💼 **LinkedIn**: [Connect with me](https://linkedin.com/in/sagarpyakurel)
-- 📧 **Email**: [your.email@example.com](mailto:pyakurelsagarofficial@gmail.com)
+- 📧 **Email**: [pyakurelsagarofficial@gmail.com](mailto:pyakurelsagarofficial@gmail.com)
 - 🐙 **GitHub**: [@sagarpyakurel](https://github.com/sagarpyakurel)
 
 ---
